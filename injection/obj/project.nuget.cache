@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6WXamFXe5UITA3k0WKf+eXNzw2Q8TEaGN3LSthvPDloRXubLnlq8afY2VsmjCMAgv+C0LS+LAt1JvnREaDEQQ==",
+  "success": true,
+  "projectFilePath": "/home/aq3fdz/Documents/Perso/HTB/Visual/injection/injection.csproj",
+  "expectedPackageFiles": [
+    "/home/aq3fdz/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/aq3fdz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/aq3fdz/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
