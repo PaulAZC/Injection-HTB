@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Injection\Injection\bin\Debug\Injection.exe.config
-C:\Users\Admin\source\repos\Injection\Injection\bin\Debug\Injection.exe
-C:\Users\Admin\source\repos\Injection\Injection\bin\Debug\Injection.pdb
-C:\Users\Admin\source\repos\Injection\Injection\obj\Debug\Injection.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\Injection\Injection\obj\Debug\Injection.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\Injection\Injection\obj\Debug\Injection.exe
-C:\Users\Admin\source\repos\Injection\Injection\obj\Debug\Injection.pdb
